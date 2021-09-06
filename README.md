@@ -4,4 +4,4 @@
 
 ![Landing Page and RockPaperScissors](https://media.giphy.com/media/lEqyAW7AxMt85eNLOV/giphy.gif)
 
-**Projcet Link: https://emrizki.github.io/binar-chp4-challenge/gameplay/index.htm
+**Projcet Link:** https://emrizki.github.io/binar-chp4-challenge/gameplay/index.htm
