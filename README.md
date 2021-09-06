@@ -1,6 +1,6 @@
 ### Landing Page & Rock Paper Scissors Challenge
 
-### Binar Challenge #Chapter4
+### Binar Challenge - Chapter4
 
 ***Preview Demo:*** <br>
 
