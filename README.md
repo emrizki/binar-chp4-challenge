@@ -1,4 +1,4 @@
-### Landing Page & Rock Paper Scissors Challenge
+### Rock Paper Scissors using HTML, CSS, JS
 
 ### Binar Challenge - Chapter 4
 
