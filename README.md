@@ -2,7 +2,7 @@
 
 ### Binar Challenge - Chapter 4
 
-***Preview Demo:*** <br>
+***Preview:*** <br>
 
 ![Landing Page and RockPaperScissors](https://media.giphy.com/media/lEqyAW7AxMt85eNLOV/giphy.gif)
 
